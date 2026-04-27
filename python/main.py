@@ -1,4 +1,4 @@
-import solution
+# ----- import your modules here -----
 
 def print_is_colliding(obj1: str, obj2: str, status: bool):
     print(f'{obj1} is {'' if status else 'not'}colliding with {obj2}')
