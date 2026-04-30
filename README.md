@@ -1,6 +1,6 @@
 # Public Application Project
 
-###### Last modified: 2026-04-26
+###### Last modified: 2026-04-30
 
 This project is open to anyone interested in joining the Programming subteam at
 SC Robotics. Complete the project and submit your solution to be considered for

@@ -6,7 +6,8 @@ using std::string;
 
 // Method to display two objects' names and whether they're colliding
 void printIsColliding(const string& obj1, const string& obj2, bool status) {
-    printf("%s is %scolliding with %s\n", obj1, status ? "" : "not ", obj2);
+    printf("%s is %scolliding with %s\n",
+            obj1.c_str(), status ? "" : "not ", obj2.c_str());
 }
 
 int main() {
