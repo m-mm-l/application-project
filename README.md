@@ -1,6 +1,6 @@
 # Public Application Project
 
-###### Last modified: 2026-04-30
+###### Last modified: 2026-05-01
 
 This project is open to anyone interested in joining the Programming subteam at
 SC Robotics. Complete the project and submit your solution to be considered for
@@ -23,6 +23,9 @@ If you don't have a GitHub account, you'll have to make one before continuing.
     thought processes as you work.
 *   You may use any tools you wish, including LLMs, but you'll be expected to
     have a thorough understanding of any code you submit.
+*   Feel free to give the project your own spin if you think you have a
+    creative idea or a cool solution that you want to implement. You may add
+    things to the driver as long as you retain the existing testcases.
 
 ## The Problem
 
