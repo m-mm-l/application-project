@@ -24,9 +24,9 @@ def main():
     print_is_colliding('r1', 'c2', is_colliding(r1, c2));
     print_is_colliding('r1', 'r5', is_colliding(r1, r5));
     print_is_colliding('r1', 'r6', is_colliding(r1, r6));
-    print_is_colliding('c1', 'r5', is_colliding(c1, r5));
-    print_is_colliding('c3', 'r5', is_colliding(c3, r5));
-    print_is_colliding('r2', 'r5', is_colliding(r2, r5));
+    print_is_colliding('c2', 'r5', is_colliding(c2, r5));
+    print_is_colliding('c4', 'r3', is_colliding(c4, r3));
+    print_is_colliding('r3', 'r6', is_colliding(r3, r6));
 
 if __name__ == "__main__":
     main()

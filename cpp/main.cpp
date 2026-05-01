@@ -32,8 +32,8 @@ int main() {
     printIsColliding("r1", "r5", isColliding(r1, r5));
     printIsColliding("r1", "r6", isColliding(r1, r6));
     printIsColliding("c2", "r5", isColliding(c2, r5));
-    printIsColliding("c4", "r5", isColliding(c4, r3));
-    printIsColliding("r3", "r5", isColliding(r3, r6));
+    printIsColliding("c4", "r3", isColliding(c4, r3));
+    printIsColliding("r3", "r6", isColliding(r3, r6));
 
     return 0;
 }
